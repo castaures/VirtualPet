@@ -62,7 +62,6 @@ void draw(){
   rotate(75);
   ellipse(190, 270, 20, 175);
 
-  // arms
   noStroke();
   fill(0, 0, 0);
   rotate(-150);
